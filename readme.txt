@@ -1,0 +1,1 @@
+copy all the html files into a folder: templates/pastebin(create it in this location)
